@@ -26,7 +26,7 @@ const clickHandler = (e) => {
 	if(correct === e.target.textContent){
 		window.alert('正解！')
 	   }else{
-	　　window.alert('残念！')
+	　　window.alert('不正解！！！！！！')
 	   }
 };
 
